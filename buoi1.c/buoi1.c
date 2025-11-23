@@ -18,7 +18,7 @@ int main() {
     //ssss
     printf("nhap vao so b: ");
     scanf("%d", &b);
-    
+    //test 012
     printf ("tong cua a va b la: %d ", a + b);
     return 0;
 }
